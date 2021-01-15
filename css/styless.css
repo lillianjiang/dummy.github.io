@@ -17,9 +17,9 @@ body {
 */
 .bg {
   width: 100%;
-  background: #79a8ae;
-  background: -webkit-linear-gradient(top left, #79a8ae 0%, #79a8ae 100%);
-  background: linear-gradient(to bottom right, #79a8ae 0%, #79a8ae 100%);
+  background: #d00000;
+  background: -webkit-linear-gradient(top left, #d00000 0%, #d00000 100%);
+  background: linear-gradient(to bottom right, #d00000 0%, #d00000 100%);
 }
 .velas {
   background: #ffffff;
@@ -520,7 +520,7 @@ body {
 	border-radius:30px;
 	font-size: 23px;
 	text-align:center;
-	background: #79a8ae;
+	background: #d00000;
 	transition:all 0.8s;
 }
 .link2 {
@@ -533,7 +533,7 @@ body {
 }
 
 a.lk1:hover {
-	color:#79a8ae;
+	color:#d00000;
 	transition:all 0.5s;
 }
 .link1:hover {
@@ -543,7 +543,7 @@ a.lk1:hover {
 	transition:all 0.8s;
 }
 a.lk2:hover {
-	color:#79a8ae;
+	color:#d00000;
 	transition:all 0.5s;
 }
 .link2:hover {
